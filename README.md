@@ -12,7 +12,7 @@ This project solves that by building a complete RAG (Retrieval Augmented Generat
 
 ## 🎬 Demo
 
-![Demo](assets/demo.png)
+![Demo](assets/demo.jpeg)
 
 ## 🏗️ System Architecture
 ```mermaid
