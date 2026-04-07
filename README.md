@@ -25,7 +25,7 @@ flowchart TD
     F --> G[Step 5: Translate Hindi → English<br/>Gemini API]
     E --> H[Step 6: Merge Content]
     G --> H
-    H --> I[Step 7: Chunk + Filter<br/>500 char chunks, 100 overlap]
+    H --> I[Step 7: Chunk + Filter<br/>]
     I --> J[Step 8: Embed<br/>sentence-transformers<br/>all-MiniLM-L6-v2]
     J --> K[(Step 9: ChromaDB<br/>Vector Store)]
     K --> L[RAG Query Interface<br/>Streamlit]
