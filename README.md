@@ -12,7 +12,7 @@ This project solves that by building a complete RAG (Retrieval Augmented Generat
 
 ## 🎬 Demo
 
-*[Add a screenshot or GIF of the Streamlit app here]*
+![Demo](assets/demo.png)
 
 ## 🏗️ System Architecture
 ```mermaid
