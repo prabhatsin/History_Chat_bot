@@ -1,0 +1,48 @@
+# Virtual environment
+myenv/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environment variables (NEVER commit API keys!)
+.env
+.env.local
+
+# Generated data
+data/
+data_test/
+chroma/
+chroma_test/
+
+# Logs
+logs/
+*.log
+
+# Downloaded models
+models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
