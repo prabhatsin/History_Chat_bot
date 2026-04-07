@@ -68,7 +68,7 @@ flowchart TD
 | Orchestration | **Custom Python orchestrator** | Full control, easy debugging, no framework overhead |
 
 ## 📁 Project Structure
-'''
+```
 History_Chat_bot/
 ├── code_pipeline/              # All pipeline scripts
 │   ├── chrome_history_extraction.py
@@ -93,7 +93,7 @@ History_Chat_bot/
 ├── requirements.txt
 ├── .env                        # API keys (gitignored)
 └── README.md
-'''
+```
 
 ## 🚀 Setup
 
@@ -121,9 +121,9 @@ pip install -r requirements.txt
 ### Configuration
 
 1. Create a `.env` file in the project root:
-'''
+```
 GEMINI_API_KEY=your_gemini_api_key_here
-'''
+```
 2. Update `config/config.py` to match your Chrome profile:
 ```python
 CHROME_PROFILE = "Profile 2"   # or "Default", "Profile 1", etc.
