@@ -6,7 +6,7 @@ Ever read a great article last week and can't find it now? Watched a YouTube tut
 
 ## 🎯 Problem
 
-We consume tons of content daily — articles, blog posts, YouTube videos, documentation. But our memory is limited and browser history is just a flat list of URLs. There's no way to ask *"what did I read about RAG architecture last week?"* and get a useful answer.
+We consume tons of content daily — articles, blog posts, YouTube videos, documentation. But our memory is limited and browser history is just a flat list of URLs. There's no way to ask *"what did I read about RAG architecture last week?"* and get a useful answer
 
 This project solves that by building a complete RAG (Retrieval Augmented Generation) pipeline over your own browsing data.
 
